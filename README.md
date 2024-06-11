@@ -1,1 +1,1 @@
-# Generic List
+# Generic List algorithm
